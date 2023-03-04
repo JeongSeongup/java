@@ -1,3 +1,4 @@
+package chapter02;
 public class DoubleEx1 {
     
     public static void main(String[] args){
