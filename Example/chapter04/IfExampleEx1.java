@@ -5,6 +5,8 @@ public class IfExampleEx1 {
         int age = 7;
         if(age >=8 ){
             System.out.println("학교에다닙니다.");
+        }else {
+            System.out.println("학교에 다니지 않습니다.");
         }
     }
 }
