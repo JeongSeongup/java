@@ -10,4 +10,8 @@ public class student {
         System.out.println(studentName+","+address);
     }
 
+    public String getStudentName(){
+        return studentName;
+    }
+
 }
