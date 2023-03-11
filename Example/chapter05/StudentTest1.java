@@ -2,10 +2,10 @@ package chapter05;
 
 public class StudentTest1 {
     public static void main(String[] args){
-      Student student1 = new Student();
+      Studented student1 = new Studented();
       student1.studentName = "안연수";
 
-      Student student2 = new Student();
+      Studented student2 = new Studented();
       student2.studentName = "안승연";
 
         System.out.println(student1.getStudentName());  // 인스턴스 사용하기
