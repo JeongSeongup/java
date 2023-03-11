@@ -1,7 +1,5 @@
 package chapter04;
 
-import javax.lang.model.util.ElementScanner14;
-
 // 입장료 계산하기
 public class IfExampleEx2 {
     public static void main(String[] args){
