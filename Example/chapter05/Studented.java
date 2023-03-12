@@ -1,6 +1,6 @@
 package chapter05;
 
-public class Student {
+public class Studented {
     int studentID;
     String studentName;
     int grade;
@@ -21,7 +21,7 @@ public class Student {
     }
 
     public static void main(String[] args){
-        Student studentAhn = new Student(); //Student Class 생성
+        Studented studentAhn = new Studented(); //Student Class 생성
         studentAhn.studentName = "안연수";
 
         System.out.println(studentAhn.studentName);
